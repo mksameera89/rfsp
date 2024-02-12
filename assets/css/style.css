@@ -87,7 +87,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  
 }
 
 #header .profile h1 {
@@ -300,7 +300,12 @@ h6 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
-  }
+}
+
+#hero p{
+  font-size: 12px;
+}
+
 }
 
 /*--------------------------------------------------------------
